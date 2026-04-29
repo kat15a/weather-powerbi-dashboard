@@ -26,12 +26,6 @@ This project is a real-time **Weather and AQI Dashboard** built using Power BI a
 
 ---
 
-## 📸 Dashboard Preview
-
-(Add screenshot here)
-
----
-
 ## 📌 How to Use
 
 1. Download `.pbix` file
