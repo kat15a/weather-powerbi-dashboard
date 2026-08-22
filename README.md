@@ -32,9 +32,3 @@ This project is a real-time **Weather and AQI Dashboard** built using Power BI a
 2. Open in Power BI Desktop
 3. Replace API Key
 4. Click Refresh
-
----
-
-## ⚠️ Note
-
-API key is not included for security reasons.
